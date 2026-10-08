@@ -8,16 +8,18 @@ designed in Onshape. Intended for pistol shooters.
 - **Open decision:** manufacturing method and wall thickness.
 
 ## Images
-![Open](<img width="917" height="841" alt="image" src="https://github.com/user-attachments/assets/8122f1ad-1b26-43a7-907c-b62452982db9" />)  
-*Fully open(12mm diameter)*
-![Closed](<img width="827" height="828" alt="image" src="https://github.com/user-attachments/assets/3841a82f-dedb-49d4-8070-74795d477ba3" />)  
-*Fully closed(1mm diameter)*
-![Exploded view](<img width="956" height="847" alt="image" src="https://github.com/user-attachments/assets/4cd9d77a-d44a-4dee-a031-84973d8e6c67" />)  
-*Show of all the seperate components*
+**Open Fully (12mm diameter)**
+<img width="840" height="831" alt="open" src="https://github.com/user-attachments/assets/8b29ab0a-e0d7-457b-b548-22ec0754e493" />  
+
+**Closed Fully (1mm diameter)**
+<img width="920" height="832" alt="closed" src="https://github.com/user-attachments/assets/42412e0a-4ff7-475f-9a59-f15ac8abcb8f" />  
+
+**Exploded view**
+<img width="956" height="847" alt="image" src="https://github.com/user-attachments/assets/4cd9d77a-d44a-4dee-a031-84973d8e6c67" />  
 
 ## Visual working
-https://github.com/user-attachments/assets/5ad97f7e-4eec-412d-bec4-a19a201d54fe
-*working of the iris piece, opening and closing*
+**working of the iris piece, opening and closing**
+https://github.com/user-attachments/assets/bc19b01e-62c5-4c10-9034-e9dc4a305d7c
 
 ## How it works
 Like most iris pieces from other competitive shooting product companies, this uses a rack and pin mechanism. With the help of the actuator tab(long rectangular piece connecting to the actuator ring), we can fully open the blade mechanism from a 12mm diameter to a 1mm diameter, as needed for competitive 10m pistol shooting.
