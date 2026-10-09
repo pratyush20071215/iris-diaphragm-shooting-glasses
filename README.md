@@ -8,10 +8,10 @@ designed in Onshape. Intended for pistol shooters.
 - **Open decision:** manufacturing method and wall thickness.
 
 ## Images
-**Open Fully (12mm diameter)**
+**Open Fully (12.008 mm diameter)**
 <img width="840" height="831" alt="open" src="https://github.com/user-attachments/assets/8b29ab0a-e0d7-457b-b548-22ec0754e493" />  
 
-**Closed Fully (1mm diameter)**
+**Closed Fully (1.16 mm diameter)**
 <img width="920" height="832" alt="closed" src="https://github.com/user-attachments/assets/42412e0a-4ff7-475f-9a59-f15ac8abcb8f" />  
 
 **Exploded view**
@@ -22,10 +22,10 @@ designed in Onshape. Intended for pistol shooters.
 https://github.com/user-attachments/assets/bc19b01e-62c5-4c10-9034-e9dc4a305d7c
 
 ## How it works
-Like most iris pieces from other competitive shooting product companies, this uses a rack and pin mechanism. With the help of the actuator tab(long rectangular piece connecting to the actuator ring), we can fully open the blade mechanism from a 12mm diameter to a 1mm diameter, as needed for competitive 10m pistol shooting.
+Like most iris pieces from other competitive shooting product companies, this uses a pin and slot mechanism. With the help of the actuator tab(long rectangular piece connecting to the actuator ring), we can fully open the blade mechanism from a 12mm diameter to a 1mm diameter, as needed for competitive 10m pistol shooting.
 
 ## Key numbers
-Blade rotation 54.77°, ring rotation 28.31°, rack travel 5.929 mm.(to be checked agained due to some discrepencies, will be updated within a week)
+Pivot radius 13.034 mm, pin-circle radius 12.005 mm, World change 6.22°, slot sweep 48.301°, blade rotation 54.52°, Ring rotation 28.30°. Actuator tab: radius 22 mm, travel 10.87 mm, slot arc 35°, margin per end 3.35° (1.3 mm) (to be checked agained due to some discrepencies, will be updated within a week)
 Full derivation in `docs/derivation.md`.
 
 ## Manufacturing note
