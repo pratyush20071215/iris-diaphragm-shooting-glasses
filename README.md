@@ -37,4 +37,4 @@ Digital prototype only. Not physically built or tested.
 Is legal to use in the sport from researching current and past ISSF rulebooks, may have to check for any recent changes in the updated(if any) rulebook.
 
 ## To view the CAD model:
-
+https://cad.onshape.com/documents/7c59313c79499f687e1c4fc7/w/5c751d12d405c19746826f74/e/161194774d51d057c42d1b12?renderMode=0&uiState=6ad0ea61021ea1bb060cdc18
