@@ -35,3 +35,6 @@ Laser-cut or etched metal is the planned route. Not yet decided.
 ## Limitations
 Digital prototype only. Not physically built or tested.
 Is legal to use in the sport from researching current and past ISSF rulebooks, may have to check for any recent changes in the updated(if any) rulebook.
+
+## To view the CAD model:
+
