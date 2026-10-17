@@ -25,8 +25,7 @@ https://github.com/user-attachments/assets/bc19b01e-62c5-4c10-9034-e9dc4a305d7c
 Like most iris pieces from other competitive shooting product companies, this uses a pin and slot mechanism. With the help of the actuator tab(long rectangular piece connecting to the actuator ring), we can fully open the blade mechanism from a 12mm diameter to a 1mm diameter, as needed for competitive 10m pistol shooting.
 
 ## Key numbers
-Pivot radius 13.034 mm, pin-circle radius 12.005 mm, World change 6.22°, slot sweep 48.301°, blade rotation 54.52°, Ring rotation 28.30°. Actuator tab: radius 22 mm, travel 10.87 mm, slot arc 35°, margin per end 3.35° (1.3 mm) (to be checked agained due to some discrepencies, will be updated within a week)
-Full derivation in `docs/derivation.md`.
+Pivot radius 13.034 mm, pin-circle radius 12.005 mm, World change 6.22°, slot sweep 48.301°, blade rotation 54.52°, Ring rotation 28.30°. Actuator tab: radius 22 mm, travel 10.87 mm, slot arc 35°, margin per end 3.35° (1.3 mm) Full derivation in `docs/`.
 
 ## Manufacturing note
 FDM printing was found unsuitable for the thin blades and pins.
@@ -34,7 +33,7 @@ Laser-cut or etched metal is the planned route. Not yet decided.
 
 ## Limitations
 Digital prototype only. Not physically built or tested.
-Is legal to use in the sport from researching current and past ISSF rulebooks, may have to check for any recent changes in the updated(if any) rulebook.
+Is legal to use in the sport from researching current and past ISSF rulebooks.
 
 ## To view the CAD model:
 https://cad.onshape.com/documents/7c59313c79499f687e1c4fc7/w/5c751d12d405c19746826f74/e/161194774d51d057c42d1b12?renderMode=0&uiState=6ad0ea61021ea1bb060cdc18
