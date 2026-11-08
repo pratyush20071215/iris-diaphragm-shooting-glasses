@@ -28,7 +28,7 @@ Like most iris pieces from other competitive shooting product companies, this us
 Pivot radius 13.034 mm, pin-circle radius 12.005 mm, World change 6.22°, slot sweep 48.301°, blade rotation 54.52°, Ring rotation 28.30°. Actuator tab: radius 22 mm, travel 10.87 mm, slot arc 35°, margin per end 3.35° (1.3 mm) Full derivation in `docs/`.
 
 ## Manufacturing note
-FDM printing was found unsuitable for the thin blades and pins.
+FDM printing has been deferred for the thin blades and pins.
 Laser-cut or etched metal is the planned route. Not yet decided.
 
 ## Limitations
